@@ -1,0 +1,2 @@
+Python Programming
+Python is a popular programming language used in web development, automation, data science and artificial intelligence. It has simple syntax and many useful libraries.

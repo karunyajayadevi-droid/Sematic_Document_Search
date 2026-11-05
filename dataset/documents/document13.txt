@@ -1,0 +1,2 @@
+Database Management Systems
+A Database Management System stores, organizes and manages data. SQL is used to create tables, insert records, update information and retrieve data.

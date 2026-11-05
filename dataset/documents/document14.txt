@@ -1,0 +1,2 @@
+Cloud Computing
+Cloud computing provides computing services such as storage, servers and databases through the internet. It allows users to access resources without maintaining their own physical servers.

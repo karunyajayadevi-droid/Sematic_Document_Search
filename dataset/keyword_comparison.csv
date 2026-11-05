@@ -1,51 +1,16 @@
-query,keyword_rank,document_title,keyword_match_count
-What is artificial intelligence?,1,Introduction to Artificial Intelligence,2
-What is artificial intelligence?,2,Machine Learning,2
-What is artificial intelligence?,3,Computer Vision,2
-What is artificial intelligence?,4,Generative Artificial Intelligence,2
-What is artificial intelligence?,5,Deep Learning,1
-How do computers learn from data?,1,Machine Learning,3
-How do computers learn from data?,2,Neural Networks,2
-How do computers learn from data?,3,Deep Learning,1
-How do computers learn from data?,4,Natural Language Processing,1
-How do computers learn from data?,5,Computer Vision,1
-Explain neural networks and deep learning.,1,Neural Networks,5
-Explain neural networks and deep learning.,2,Deep Learning,4
-Explain neural networks and deep learning.,3,Machine Learning,2
-Explain neural networks and deep learning.,4,Introduction to Artificial Intelligence,1
-Explain neural networks and deep learning.,5,Natural Language Processing,1
-How can computers understand human language?,1,Natural Language Processing,2
-How can computers understand human language?,2,Computer Vision,2
-How can computers understand human language?,3,Introduction to Artificial Intelligence,1
-How can computers understand human language?,4,Machine Learning,1
-How can computers understand human language?,5,Neural Networks,1
-How does AI identify objects in pictures?,1,Artificial Intelligence in Healthcare,3
-How does AI identify objects in pictures?,2,Introduction to Artificial Intelligence,2
-How does AI identify objects in pictures?,3,Artificial Intelligence in Education,2
-How does AI identify objects in pictures?,4,Deep Learning,1
-How does AI identify objects in pictures?,5,Computer Vision,1
-What technology is inspired by the human brain?,1,Neural Networks,4
-What technology is inspired by the human brain?,2,Introduction to Artificial Intelligence,2
-What technology is inspired by the human brain?,3,Generative Artificial Intelligence,2
-What technology is inspired by the human brain?,4,Machine Learning,1
-What technology is inspired by the human brain?,5,Deep Learning,1
-How can AI create new text and images?,1,Large Language Models,4
-How can AI create new text and images?,2,Generative Artificial Intelligence,3
-How can AI create new text and images?,3,Artificial Intelligence in Healthcare,3
-How can AI create new text and images?,4,Artificial Intelligence in Education,3
-How can AI create new text and images?,5,Introduction to Artificial Intelligence,2
-What are the capabilities of ChatGPT?,1,Neural Networks,3
-What are the capabilities of ChatGPT?,2,Machine Learning,2
-What are the capabilities of ChatGPT?,3,Large Language Models,2
-What are the capabilities of ChatGPT?,4,Introduction to Artificial Intelligence,1
-What are the capabilities of ChatGPT?,5,Deep Learning,1
-How is AI used to detect diseases?,1,Introduction to Artificial Intelligence,4
-How is AI used to detect diseases?,2,Computer Vision,3
-How is AI used to detect diseases?,3,Generative Artificial Intelligence,3
-How is AI used to detect diseases?,4,Machine Learning,2
-How is AI used to detect diseases?,5,Deep Learning,1
-How does AI help students in education?,1,Introduction to Artificial Intelligence,2
-How does AI help students in education?,2,Artificial Intelligence in Healthcare,2
-How does AI help students in education?,3,Artificial Intelligence in Education,2
-How does AI help students in education?,4,Deep Learning,1
-How does AI help students in education?,5,Computer Vision,1
+query,semantic_top5,keyword_top5,common_documents
+What is artificial intelligence?,"Introduction to Artificial Intelligence, Machine Learning, Artificial Intelligence in Education, Generative Artificial Intelligence, Artificial Intelligence in Healthcare","Introduction to Artificial Intelligence, Machine Learning, Computer Vision, Generative Artificial Intelligence, Artificial Intelligence in Healthcare",4
+How do machines learn from information?,"Machine Learning, Large Language Models, Neural Networks, Generative Artificial Intelligence, Deep Learning","Introduction to Artificial Intelligence, Machine Learning, Neural Networks, Database Management Systems, Internet of Things",2
+Explain how the human brain inspires neural networks.,"Neural Networks, Generative Artificial Intelligence, Introduction to Artificial Intelligence, Deep Learning, Machine Learning","Neural Networks, Deep Learning, Introduction to Artificial Intelligence, Natural Language Processing, Large Language Models",3
+How can computers understand human language?,"Natural Language Processing, Large Language Models, Computer Vision, Introduction to Artificial Intelligence, Artificial Intelligence in Education","Natural Language Processing, Computer Vision, Large Language Models, Introduction to Artificial Intelligence, Machine Learning",4
+How does technology recognize objects in photographs?,"Computer Vision, Artificial Intelligence in Healthcare, Generative Artificial Intelligence, Neural Networks, Agriculture Technology","Generative Artificial Intelligence, Agriculture Technology, Transportation Technology, Introduction to Artificial Intelligence, Machine Learning",2
+How can artificial intelligence create content?,"Generative Artificial Intelligence, Introduction to Artificial Intelligence, Artificial Intelligence in Education, Natural Language Processing, Large Language Models","Generative Artificial Intelligence, Introduction to Artificial Intelligence, Machine Learning, Computer Vision, Artificial Intelligence in Healthcare",2
+What can large language models do?,"Large Language Models, Natural Language Processing, Deep Learning, Generative Artificial Intelligence, Machine Learning","Large Language Models, Deep Learning, Natural Language Processing, Generative Artificial Intelligence, Artificial Intelligence in Healthcare",4
+How does technology help doctors identify illnesses?,"Artificial Intelligence in Healthcare, Agriculture Technology, Computer Vision, Transportation Technology, Natural Language Processing","Artificial Intelligence in Healthcare, Generative Artificial Intelligence, Cybersecurity, Agriculture Technology, Transportation Technology",3
+How can technology improve student learning?,"Artificial Intelligence in Education, Transportation Technology, Agriculture Technology, Digital Banking, Generative Artificial Intelligence","Artificial Intelligence in Education, Agriculture Technology, Machine Learning, Deep Learning, Neural Networks",2
+Which programming language is useful for AI development?,"Python Programming, Introduction to Artificial Intelligence, Artificial Intelligence in Education, Natural Language Processing, Generative Artificial Intelligence","Python Programming, Deep Learning, Large Language Models, Introduction to Artificial Intelligence, Natural Language Processing",3
+How can we protect computers from hackers?,"Cybersecurity, Cloud Computing, Digital Banking, Computer Vision, Internet of Things","Machine Learning, Natural Language Processing, Computer Vision, Cybersecurity, Introduction to Artificial Intelligence",2
+How do organizations store and manage information?,"Database Management Systems, Cloud Computing, Large Language Models, Agriculture Technology, Digital Banking","Database Management Systems, Internet of Things, Introduction to Artificial Intelligence, Machine Learning, Deep Learning",1
+How can internet-based services provide data storage?,"Cloud Computing, Internet of Things, Digital Banking, Database Management Systems, Transportation Technology","Cloud Computing, Machine Learning, Neural Networks, Generative Artificial Intelligence, Large Language Models",1
+What are clean energy sources that protect nature?,"Renewable Energy, Environmental Pollution, Cybersecurity, Agriculture Technology, Internet of Things","Renewable Energy, Introduction to Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing",1
+How can smart devices communicate through the internet?,"Internet of Things, Transportation Technology, Neural Networks, Cloud Computing, Agriculture Technology","Internet of Things, Cloud Computing, Agriculture Technology, Introduction to Artificial Intelligence, Machine Learning",3

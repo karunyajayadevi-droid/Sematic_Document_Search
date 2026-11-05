@@ -1,54 +1,84 @@
 
-# Week 11 – Vector Embeddings with ChromaDB
+# Week 12 – Semantic Document Search
 
-## Project Title
-Creating and Storing Vector Embeddings using ChromaDB
+## Task Title
+Building a Semantic Document Search System using LangChain and ChromaDB.
 
-## Objective
-- Understand vector databases in LLM applications.
-- Generate embeddings using Sentence Transformers.
-- Store embeddings in ChromaDB.
-- Perform semantic similarity searches.
-- Prepare a knowledge base for RAG.
+## 1. Introduction
+Semantic Document Search is an information retrieval system that finds relevant documents based on their meaning rather than only matching keywords.
 
-## Technologies Used
+This project uses Sentence Transformers, LangChain and ChromaDB to retrieve the most relevant documents for natural language queries.
+
+## 2. Objectives
+- Understand semantic search using vector embeddings.
+- Retrieve documents based on semantic similarity.
+- Integrate LangChain with ChromaDB.
+- Retrieve the Top-5 relevant documents.
+- Calculate similarity scores.
+- Compare semantic search with keyword-based search.
+- Prepare the retrieval component for a RAG application.
+
+## 3. Technologies Used
 - Python
-- VS Code
-- Sentence Transformers
-- ChromaDB
-- NumPy
-- Pandas
 - Jupyter Notebook
+- LangChain
+- ChromaDB
+- Sentence Transformers
+- Pandas
+- NumPy
 
-## Embedding Model
-all-MiniLM-L6-v2
+## 4. Embedding Model
+Model: all-MiniLM-L6-v2
 
-## Dataset
-10 text documents related to Artificial Intelligence.
+## 5. Dataset
+The project uses 20 text documents covering topics such as:
+- Artificial Intelligence
+- Machine Learning
+- Healthcare
+- Education
+- Python Programming
+- Cybersecurity
+- Cloud Computing
+- Database Management
+- Renewable Energy
+- Internet of Things
 
-## Implementation
-1. Created 10 AI text documents.
-2. Loaded the Sentence Transformer model.
-3. Generated vector embeddings.
-4. Saved embeddings in embeddings.npy.
-5. Created a ChromaDB collection.
-6. Stored documents with metadata.
-7. Created 10 user queries.
-8. Performed Top-5 semantic similarity searches.
-9. Compared semantic search with keyword search.
-10. Exported results into CSV files.
+## 6. Implementation
+1. Load the existing ChromaDB database.
+2. Add 10 new documents.
+3. Connect LangChain with ChromaDB.
+4. Load the Sentence Transformer model.
+5. Create 15 natural language queries.
+6. Perform semantic similarity searches.
+7. Retrieve the Top-5 relevant documents.
+8. Calculate similarity scores.
+9. Perform keyword-based searches.
+10. Compare both search methods.
+11. Save results into CSV files.
 
-## Output Files
-- embeddings.npy
+## 7. Output Files
 - queries.csv
-- retrieved_results.csv
+- search_results.csv
+- similarity_scores.csv
 - keyword_comparison.csv
-- chroma_db/
 
-## Conclusion
-The project successfully demonstrates how text documents
-can be converted into vector embeddings and stored in
-ChromaDB for semantic retrieval.
+## 8. Expected Results
+- Total documents: 20
+- Total queries: 15
+- Semantic search results: 75
+- Similarity score records: 75
+- Keyword search results: 75
 
-The resulting vector database can be used in the next
-week's Retrieval-Augmented Generation project.
+## 9. How to Run
+Activate the virtual environment:
+
+python semantic_search.py
+
+To execute the notebook, open:
+
+notebook/Week12_Semantic_Document_Search.ipynb
+
+## 10. Conclusion
+The project demonstrates how semantic search retrieves relevant documents by understanding the meaning of user queries.
+
+It uses vector embeddings and similarity search to improve information retrieval. The retrieved documents can be used in the next stage of Retrieval-Augmented Generation (RAG).

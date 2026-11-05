@@ -1,0 +1,76 @@
+query,rank,document_title,similarity_score
+What is artificial intelligence?,1,Introduction to Artificial Intelligence,0.8333
+What is artificial intelligence?,2,Machine Learning,0.5872
+What is artificial intelligence?,3,Artificial Intelligence in Education,0.5738
+What is artificial intelligence?,4,Generative Artificial Intelligence,0.5554
+What is artificial intelligence?,5,Artificial Intelligence in Healthcare,0.5125
+How do machines learn from information?,1,Machine Learning,0.5317
+How do machines learn from information?,2,Large Language Models,0.4404
+How do machines learn from information?,3,Neural Networks,0.3936
+How do machines learn from information?,4,Generative Artificial Intelligence,0.3855
+How do machines learn from information?,5,Deep Learning,0.3806
+Explain how the human brain inspires neural networks.,1,Neural Networks,0.6139
+Explain how the human brain inspires neural networks.,2,Generative Artificial Intelligence,0.3618
+Explain how the human brain inspires neural networks.,3,Introduction to Artificial Intelligence,0.3565
+Explain how the human brain inspires neural networks.,4,Deep Learning,0.3534
+Explain how the human brain inspires neural networks.,5,Machine Learning,0.3393
+How can computers understand human language?,1,Natural Language Processing,0.4751
+How can computers understand human language?,2,Large Language Models,0.3754
+How can computers understand human language?,3,Computer Vision,0.3473
+How can computers understand human language?,4,Introduction to Artificial Intelligence,0.3057
+How can computers understand human language?,5,Artificial Intelligence in Education,0.3054
+How does technology recognize objects in photographs?,1,Computer Vision,0.5495
+How does technology recognize objects in photographs?,2,Artificial Intelligence in Healthcare,0.2925
+How does technology recognize objects in photographs?,3,Generative Artificial Intelligence,0.2874
+How does technology recognize objects in photographs?,4,Neural Networks,0.2635
+How does technology recognize objects in photographs?,5,Agriculture Technology,0.2598
+How can artificial intelligence create content?,1,Generative Artificial Intelligence,0.675
+How can artificial intelligence create content?,2,Introduction to Artificial Intelligence,0.5781
+How can artificial intelligence create content?,3,Artificial Intelligence in Education,0.4749
+How can artificial intelligence create content?,4,Natural Language Processing,0.4333
+How can artificial intelligence create content?,5,Large Language Models,0.4163
+What can large language models do?,1,Large Language Models,0.7517
+What can large language models do?,2,Natural Language Processing,0.4048
+What can large language models do?,3,Deep Learning,0.3191
+What can large language models do?,4,Generative Artificial Intelligence,0.2746
+What can large language models do?,5,Machine Learning,0.2112
+How does technology help doctors identify illnesses?,1,Artificial Intelligence in Healthcare,0.5139
+How does technology help doctors identify illnesses?,2,Agriculture Technology,0.2802
+How does technology help doctors identify illnesses?,3,Computer Vision,0.2218
+How does technology help doctors identify illnesses?,4,Transportation Technology,0.215
+How does technology help doctors identify illnesses?,5,Natural Language Processing,0.208
+How can technology improve student learning?,1,Artificial Intelligence in Education,0.4325
+How can technology improve student learning?,2,Transportation Technology,0.3859
+How can technology improve student learning?,3,Agriculture Technology,0.2961
+How can technology improve student learning?,4,Digital Banking,0.2522
+How can technology improve student learning?,5,Generative Artificial Intelligence,0.2388
+Which programming language is useful for AI development?,1,Python Programming,0.527
+Which programming language is useful for AI development?,2,Introduction to Artificial Intelligence,0.5232
+Which programming language is useful for AI development?,3,Artificial Intelligence in Education,0.4512
+Which programming language is useful for AI development?,4,Natural Language Processing,0.4177
+Which programming language is useful for AI development?,5,Generative Artificial Intelligence,0.4103
+How can we protect computers from hackers?,1,Cybersecurity,0.5421
+How can we protect computers from hackers?,2,Cloud Computing,0.208
+How can we protect computers from hackers?,3,Digital Banking,0.1937
+How can we protect computers from hackers?,4,Computer Vision,0.1567
+How can we protect computers from hackers?,5,Internet of Things,0.1509
+How do organizations store and manage information?,1,Database Management Systems,0.4502
+How do organizations store and manage information?,2,Cloud Computing,0.2227
+How do organizations store and manage information?,3,Large Language Models,0.2134
+How do organizations store and manage information?,4,Agriculture Technology,0.2032
+How do organizations store and manage information?,5,Digital Banking,0.1863
+How can internet-based services provide data storage?,1,Cloud Computing,0.4869
+How can internet-based services provide data storage?,2,Internet of Things,0.4001
+How can internet-based services provide data storage?,3,Digital Banking,0.3717
+How can internet-based services provide data storage?,4,Database Management Systems,0.3287
+How can internet-based services provide data storage?,5,Transportation Technology,0.2471
+What are clean energy sources that protect nature?,1,Renewable Energy,0.5354
+What are clean energy sources that protect nature?,2,Environmental Pollution,0.3414
+What are clean energy sources that protect nature?,3,Cybersecurity,0.2461
+What are clean energy sources that protect nature?,4,Agriculture Technology,0.1742
+What are clean energy sources that protect nature?,5,Internet of Things,0.171
+How can smart devices communicate through the internet?,1,Internet of Things,0.5713
+How can smart devices communicate through the internet?,2,Transportation Technology,0.2776
+How can smart devices communicate through the internet?,3,Neural Networks,0.2579
+How can smart devices communicate through the internet?,4,Cloud Computing,0.2508
+How can smart devices communicate through the internet?,5,Agriculture Technology,0.2436

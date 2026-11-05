@@ -1,0 +1,2 @@
+Internet of Things
+The Internet of Things connects physical devices to the internet. Smart home appliances, wearable devices and industrial sensors collect and exchange information.
