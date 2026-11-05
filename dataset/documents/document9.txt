@@ -1,0 +1,2 @@
+Artificial Intelligence in Healthcare
+AI in healthcare helps doctors analyze medical images, identify diseases and support clinical decisions. Machine learning models can examine patient data and assist in early disease detection.

@@ -1,0 +1,2 @@
+Natural Language Processing
+Natural Language Processing, also called NLP, enables computers to understand, interpret and generate human language. Chatbots, language translation, sentiment analysis and text summarization use NLP techniques.
